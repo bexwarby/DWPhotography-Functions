@@ -1,0 +1,78 @@
+/* General */
+.App {
+  text-align: center;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #cde2d1;
+  color: #000;
+  top: 0; 
+  width: 100%;
+}
+
+li:hover {
+  background: #ffffff;
+  color: #2B5D4B;
+  border-radius: 30%;
+  text-decoration: none;
+}
+
+/* Nav Bar */
+/* .navbar {
+  overflow: hidden;
+  background-color: #0a2714; 
+}
+
+.navLink {
+float: left;
+font-size: 16px;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+.subnav {
+float: left;
+overflow: hidden;
+}
+
+.subnav .subnavbtn {
+font-size: 16px;  
+border: none;
+outline: none;
+color: white;
+padding: 14px 16px;
+background-color: inherit;
+font-family: inherit;
+margin: 0;
+}
+
+.navbar li:hover, .subnav:hover .subnavbtn {
+background-color: green;
+}
+
+.subnav-content {
+display: none;
+position: absolute;
+left: 0;
+background-color: green;
+width: 100%;
+z-index: 1;
+}
+
+.subnav-content li {
+float: left;
+color: white;
+text-decoration: none;
+}
+
+.subnav-content li:hover {
+background-color: #eee;
+color: black;
+}
+
+.subnav:hover .subnav-content {
+display: block;
+} */

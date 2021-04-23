@@ -1,0 +1,88 @@
+.introSports {
+    background-image: url("../Sports/jomumcover.jpg");
+    background-size: cover;
+    height: 1000px;
+    margin-bottom: 2vh;
+}
+
+.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+
+.polaroidContainer {
+    text-align: center;
+    padding: 10px 20px;
+}
+/* 
+.photoBlock {
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.txtSports {
+    width: 20vw;
+    margin-top: 30vh;
+    margin-left: 5vw;
+    background-color: #1b1d1a;
+    color: #ffffff;
+    opacity: 0.8;
+    font-size: larger;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+/* .photoBlock {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100vw;
+    height: 500px;
+    font-size: larger;
+    color: white;
+} */
+
+.txtPeople {
+    margin-right: 30vw; 
+    margin-left: 5vw; 
+    margin-top: 10vh;
+    background-color: #2B5D4B;
+    border-radius: 10%;
+    opacity: 0.8;
+    padding: 10px;
+    width: 600px;
+}
+
+.polaroid1 {
+    margin-top: 2vh;
+}
+/* .polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+img {
+    width: 1000px;
+    margin-bottom: 20px;
+}
+ */
